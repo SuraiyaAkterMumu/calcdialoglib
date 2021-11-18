@@ -1,5 +1,6 @@
 public class newclass{
     private float amount;
+    newclass(){};
  
 public void setAmount(float amount) {
     this.amount = amount;
